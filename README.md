@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-A sample employee information system using ASP.NET Core MVC and ADO.NET with Visual Studio Code
+A sample employee information system
 	
 ## Technologies
 This application is created with:
