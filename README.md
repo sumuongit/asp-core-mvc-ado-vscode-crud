@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This application finds duplicate numbers from a given set of numbers
+A sample employee information system using ASP.NET Core MVC and ADO.NET with Visual Studio Code
 	
 ## Technologies
 This application is created with:
