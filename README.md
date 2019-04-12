@@ -8,16 +8,16 @@ A sample employee information system using ASP.NET Core MVC and ADO.NET with Vis
 	
 ## Technologies
 This application is created with:
-* Visual Studio Code: 2017
+* Visual Studio Code Version: 2017
 * C# 
 * ASP.NET Core MVC
-* ADO.Net
+* ADO.NET
 * SQL Server 2012
 	
 ## Setup
 To run this application, building the source locally using git:
 
 ```
-$ git clone https://github.com/sumuongit/duplicate-numbers.git
+$ git clone https://github.com/sumuongit/asp-core-mvc-ado-vscode-application.git
 
 ```
