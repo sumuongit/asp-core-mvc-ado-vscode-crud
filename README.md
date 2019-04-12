@@ -8,7 +8,7 @@ A sample employee information system
 	
 ## Technologies
 This application is created with:
-* Visual Studio Code Version: 2017
+* Visual Studio Code 2017
 * C# 
 * ASP.NET Core MVC
 * ADO.NET
