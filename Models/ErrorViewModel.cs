@@ -1,5 +1,3 @@
-using System;
-
 namespace ASPCORE_MVC_VSCODE_ADO.Models
 {
     public class ErrorViewModel
