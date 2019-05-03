@@ -19,9 +19,9 @@ This application is created with:
 To run this application, building the source locally using git:
 
 ```
-$ git clone https://github.com/sumuongit/asp-core-mvc-ado-vscode-application.git
+$ git clone https://github.com/sumuongit/asp-core-mvc-ado-vscode-crud.git
 
 ```
 
 ## License
-[MIT License](https://github.com/sumuongit/asp-core-mvc-ado-vscode-application/blob/master/LICENSE)
+[MIT License](https://github.com/sumuongit/asp-core-mvc-ado-vscode-crud/blob/master/LICENSE)
