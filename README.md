@@ -1,11 +1,15 @@
 ## Table of contents
 * [General info](#general-info)
+* [Database Scripts](#database-scripts)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [License](#license)
 
 ## General info
 A sample employee information system
+
+## Database Scripts
+[Database Scripts](https://github.com/sumuongit/asp-core-mvc-ado-vscode-crud/tree/master/Database)
 	
 ## Technologies
 This application is created with:
