@@ -1,3 +1,7 @@
 wwwroot/* linguist-vendored
 
+Models/* linguist-language=ASP
+Views/* linguist-language=ASP
+Controllers/* linguist-language=ASP
+
 *.sql linguist-detectable=true
