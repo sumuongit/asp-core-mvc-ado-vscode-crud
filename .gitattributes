@@ -1,7 +1,10 @@
+# Exclude the following files or folders from language statistics
 wwwroot/* linguist-vendored
 
+# Include the following files or folders for language renaming
 Models/* linguist-language=ASP
 Views/* linguist-language=ASP
 Controllers/* linguist-language=ASP
 
+# Include the following files or folders for language detection
 *.sql linguist-detectable=true
