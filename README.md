@@ -7,7 +7,7 @@
 * [License](#license)
 
 ## General Info
-A sample employee information system
+A sample employee information system with CRUD operation
 
 ## Database Scripts
 [Database Scripts](https://github.com/sumuongit/asp-core-mvc-ado-vscode-crud/tree/master/Database)
