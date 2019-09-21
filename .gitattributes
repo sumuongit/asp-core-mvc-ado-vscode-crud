@@ -2,9 +2,9 @@
 wwwroot/* linguist-vendored
 
 # Include the following files or folders for language renaming
-Models/* linguist-language=ASP
+Models/* linguist-language=CSHARP
 Views/* linguist-language=ASP
-Controllers/* linguist-language=ASP
+Controllers/* linguist-language=CSHARP
 
 # Include the following files or folders for language detection
 *.sql linguist-detectable=true
