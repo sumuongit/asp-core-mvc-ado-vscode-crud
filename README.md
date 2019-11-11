@@ -7,7 +7,7 @@
 * [License](#license)
 
 ## General Info
-A sample employee information system with CRUD operation
+A sample application on CRUD operation using ASP.NET Core MVC, ADO.NET and SQL Server 2012 with Visual Studio Code
 
 ## Database Scripts
 [Database Scripts](https://github.com/sumuongit/asp-core-mvc-ado-vscode-crud/tree/master/Database)
